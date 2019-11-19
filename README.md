@@ -1,6 +1,6 @@
 ## Course: Cyber Data Anlytics
 
-The goal of the course is to find malicious acts or vulnerabilities in data. For this course there are three courses.
+The goal of the course is to find malicious acts or vulnerabilities in data. For this course there are three labs.
 
 ### Lab 1: Class imbalance
 Detecting malicious or fraudulent data records in payment transactions. 
